@@ -1,0 +1,8 @@
+Transaction_ID,Customer_Name,Purchase_Date,Item_Price
+TX01,JOHN DOE,2023-01-15,$15.99
+TX02,jane smith,15/01/2023,20.50
+tx03 ,  alice ,invalid_date_here,FREE
+ TX04,Bob,20230117,$ 12.00
+,Charlie,,100
+TX06,,2023-01-18,
+TX06,DAVID ,2023-01-18,$45.00
